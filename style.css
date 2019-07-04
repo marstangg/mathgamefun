@@ -1,0 +1,30 @@
+body { background-color:#84efff;}
+
+#plus {
+       background-color:red;
+       padding:10px;
+       font-size:18px;
+       color:white;
+       
+}
+#minus {
+    
+       background-color:blue;
+       padding:10px;
+       font-size:18px;
+       color:white;
+}
+#times {
+       
+       background-color:green;
+       padding:10px;
+       font-size:18px;
+       color:white;
+}
+
+
+#submit {  background-color: #0e025c;
+           color:white;
+           padding:5px;
+}
+
